@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/devinhouse-desafio-devtrainee/static/js/main.a72559c8.chunk.js",
-    "main.js.map": "/devinhouse-desafio-devtrainee/static/js/main.a72559c8.chunk.js.map",
+    "main.js": "/devinhouse-desafio-devtrainee/static/js/main.efc7347d.chunk.js",
+    "main.js.map": "/devinhouse-desafio-devtrainee/static/js/main.efc7347d.chunk.js.map",
     "runtime-main.js": "/devinhouse-desafio-devtrainee/static/js/runtime-main.cf83db37.js",
     "runtime-main.js.map": "/devinhouse-desafio-devtrainee/static/js/runtime-main.cf83db37.js.map",
     "static/js/2.a9130b28.chunk.js": "/devinhouse-desafio-devtrainee/static/js/2.a9130b28.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.cf83db37.js",
     "static/js/2.a9130b28.chunk.js",
-    "static/js/main.a72559c8.chunk.js"
+    "static/js/main.efc7347d.chunk.js"
   ]
 }
